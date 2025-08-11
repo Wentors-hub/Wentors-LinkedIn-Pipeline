@@ -1,0 +1,23 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Env and secrets
+.env
+*.key
+*.pem
+
+# Logs and debug
+*.log
+*.tmp
+
+# Local data
+linkedin_exports/
+validation_reports/
+unzipped_*/
+processed/
+
+# OS
+.DS_Store
+Thumbs.db
