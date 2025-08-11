@@ -21,3 +21,4 @@ processed/
 # OS
 .DS_Store
 Thumbs.db
+config.py
